@@ -1,5 +1,5 @@
 # Raw strings in Python
-How to show raw strings in Python and understanding difference between them.
+How to show _raw_ strings in Python and understanding difference between them.
 
 ### Reference to:
 [1] Valentyn N Sichkar. Example on how to show raw strings in Python // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Raw_strings_in_Python (date of access: XX.XX.XXXX)
